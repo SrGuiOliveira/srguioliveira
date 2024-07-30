@@ -29,10 +29,10 @@
  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srguioliveira&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
  <hr>
 
- #### Top Repositories
+ <h2 align="center">💻 Top Repositories 💻</h2>
 <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats](https://github.com/SrGuiOliveira/auto_motors">
+<a href="https://github.com/SrGuiOliveira/auto_motors">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srguioliveira&repo=github-readme-stats&theme=buefy" />
 </a>
 
