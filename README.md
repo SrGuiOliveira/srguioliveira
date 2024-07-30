@@ -1,4 +1,4 @@
-## Hi there 👋
+<img align="right" alt="PC GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJxa3hhbGI3b2VqZXE5amVwam92NjE0cm5yZWMzeDN6dGZwcGR3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp" width = "30%" />
 
 <!--
 **SrGuiOliveira/srguioliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
