@@ -33,7 +33,7 @@
 <br>
 
 <a href="https://github.com/SrGuiOliveira/auto_motors">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srguioliveira&repo=github-readme-stats&theme=buefy" />
+ 
 </a>
 
 
