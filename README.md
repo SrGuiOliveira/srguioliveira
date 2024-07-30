@@ -1,4 +1,4 @@
-<img align="right" alt="PC GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJxa3hhbGI3b2VqZXE5amVwam92NjE0cm5yZWMzeDN6dGZwcGR3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp" width = "30%" />
+[<img align="right" alt="PC GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJxa3hhbGI3b2VqZXE5amVwam92NjE0cm5yZWMzeDN6dGZwcGR3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp" width = "40%" />](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDE3YnppdnV6cmlxbDFwZGU0MmlubGFrYmoydDZrcm50bTZwMzA0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp)
 
 **Sobre mim/About me**
 
