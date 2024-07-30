@@ -25,6 +25,8 @@
 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srguioliveira&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
+ <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srguioliveira&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+
 <!--
 **SrGuiOliveira/srguioliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
