@@ -12,7 +12,8 @@
 <p align="center">
   <code><img title="Javascript" height="35" src="images/javascript.svg"></code>
  <code><img title="React" height="35" src="images/react-original.svg"></code> 
-   <code><img title="Problem Solving" height="35" src="images/redux.svg"></code>
+   <code><img title="Redux" height="35" src="images/redux.svg"></code>
+    <code><img title="Bootstrap" height="35" src="images/bootstrap.png"></code>
   <code><img title="Problem Solving" height="35" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="35" src="images/html5.svg"></code>
   <code><img title="CSS" height="35" src="images/css.svg"></code>
