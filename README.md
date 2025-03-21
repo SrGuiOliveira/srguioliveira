@@ -4,7 +4,7 @@
 
 - 💼 Engenheiro FrontEnd | FrontEnd Engineer
 
- <img  src = "https://github-readme-stats.vercel.app/api?username=srguioliveira&theme=darcula&show_icons=true" />
+ <img  src = "https://github-readme-stats.vercel.app/api?username=srguioliveira&theme=default&show_icons=true" />
 
  <hr>
 <h2 align="center">✨ Languages & Frameworks ✨</h2>
