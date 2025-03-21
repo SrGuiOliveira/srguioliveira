@@ -10,19 +10,18 @@
 <h2 align="center">✨ Languages & Frameworks ✨</h2>
 <br>
 <p align="center">
-  <code><img title="Javascript" height="35" src="images/javascript.svg"></code>
- <code><img title="React" height="35" src="images/react-original.svg"></code> 
-   <code><img title="Redux" height="35" src="images/redux.svg"></code>
-    <code><img title="Bootstrap" height="35" src="images/bootstrap.png"></code>
-  <code><img title="Problem Solving" height="35" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="35" src="images/html5.svg"></code>
   <code><img title="CSS" height="35" src="images/css.svg"></code>
-  <code><img title="SASS" height="35" src="images/sass.svg"></code>
-  <code><img title="Gulp" height="35" src="images/gulp.svg"></code>
+  <code><img title="Problem Solving" height="35" src="images/problemSolving.png"></code>
+  <code><img title="Javascript" height="35" src="images/javascript.svg"></code>
   <code><img title="Git" height="35" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="35" src="images/vscode.png"></code>
-  <code><img title="JQuery" height="35" src="images/jquery-original.svg"></code>
   <code><img title="GitHub" height="35" src="images/github.svg"></code>
+  <code><img title="Gulp" height="35" src="images/gulp.svg"></code>
+  <code><img title="SASS" height="35" src="images/sass.svg"></code>
+  <code><img title="JQuery" height="35" src="images/jquery-original.svg"></code>
+    <code><img title="Bootstrap" height="35" src="images/bootstrap.png"></code>
+ <code><img title="React" height="35" src="images/react-original.svg"></code> 
+   <code><img title="Redux" height="35" src="images/redux.svg"></code>
 </p>
 <hr>
 
