@@ -14,6 +14,7 @@
   <code><img title="CSS" height="35" src="images/css.svg"></code>
   <code><img title="Problem Solving" height="35" src="images/problemSolving.png"></code>
   <code><img title="Javascript" height="35" src="images/javascript.svg"></code>
+   <code><img title="Typescript" height="35" src="images/typescript.png"></code>
   <code><img title="Git" height="35" src="images/git-original.svg"></code>
   <code><img title="GitHub" height="35" src="images/github.svg"></code>
   <code><img title="Gulp" height="35" src="images/gulp.svg"></code>
