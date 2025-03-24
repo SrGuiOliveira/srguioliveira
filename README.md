@@ -1,6 +1,6 @@
 <img align="right" width="40%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDE3YnppdnV6cmlxbDFwZGU0MmlubGFrYmoydDZrcm50bTZwMzA0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" />
 
-- 💼 Engenheiro FrontEnd | FrontEnd Engineer
+💼 Engenheiro FrontEnd | FrontEnd Engineer
 ## ✨ Sobre Mim / About Me ✨
 👋 Olá! Meu nome é **Gui Oliveira**, sou um **Desenvolvedor Front-End** natural de São Paulo, Brasil. Minha paixão pela tecnologia me inspira a criar experiências digitais impactantes, funcionais e acessíveis para todos. 🚀
 
@@ -12,9 +12,8 @@
 🎯 **Objetivo**: Busco sempre evoluir minhas habilidades e estou aberto a colaborar em projetos inovadores que façam a diferença.
 
 📫 **Entre em contato**:
-- ✉️ E-mail: [gui.live012@gmail.com](mailto:gui.live012@gmail.com)
-- 🌐 Portfólio Online: [gso-portfolio.vercel.app](https://gso-portfolio.vercel.app/)
-- 
+- ✉️ E-mail: [clique aqui](mailto:gui.live012@gmail.com)
+- 🌐 Portfólio Online: [clique aqui](https://gso-portfolio.vercel.app/) 
 
  <img  src = "https://github-readme-stats.vercel.app/api?username=srguioliveira&theme=default&show_icons=true" />
 
