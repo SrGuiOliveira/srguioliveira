@@ -61,12 +61,14 @@
 
  <h2 align="center">💻 Top Repositories 💻</h2>
 <br>
-<a href="https://github.com/srguioliveira/portfolio">
+<div align="center">
+  <a href="https://github.com/srguioliveira/portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srguioliveira&repo=portfolio&theme=default" />
 </a>
 <a href="https://github.com/srguioliveira/lista_telefonica_react">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srguioliveira&repo=lista_telefonica_react&theme=default" />
 </a>
+</div>
 
 
 <!--
