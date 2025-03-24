@@ -61,7 +61,12 @@
 
  <h2 align="center">💻 Top Repositories 💻</h2>
 <br>
- <h3 align="center">Em breve... | Coming soon...</h3>
+<a href="https://github.com/srguioliveira/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srguioliveira&repo=portfolio&theme=default" />
+</a>
+<a href="https://github.com/srguioliveira/lista_telefonica_react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srguioliveira&repo=lista_telefonica_react.github.io&theme=default" />
+</a>
 
 
 <!--
