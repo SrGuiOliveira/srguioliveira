@@ -13,7 +13,19 @@
 
 📫 **Entre em contato**:
 - ✉️ E-mail: [clique aqui](mailto:gui.live012@gmail.com)
-- 🌐 Portfólio Online: [clique aqui](https://gso-portfolio.vercel.app/) 
+- 🌐 Portfólio Online: [clique aqui](https://gso-portfolio.vercel.app/)
+👋 Hello! My name is **Gui Oliveira**, and I’m a **Front-End Developer** originally from São Paulo, Brazil. My passion for technology inspires me to create impactful, functional, and accessible digital experiences for everyone. 🚀
+
+💻 **Skills**: I work with the following technologies and frameworks:
+- **HTML5**, **CSS3**, **JavaScript**, and **TypeScript**
+- **Sass**, **Bootstrap**, **React**, **JQuery**
+- Version control with **Git** and automation tools like **Gulp**
+
+🎯 **Goal**: I aim to continuously improve my skills and am open to collaborating on innovative projects that make a difference.
+
+📫 **Get in touch**:
+- ✉️ Email: [click here](mailto:gui.live012@gmail.com)
+- 🌐 Online Portfolio: [click here](https://gso-portfolio.vercel.app/)
 
 <div align="center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=srguioliveira&theme=default&show_icons=true" />
