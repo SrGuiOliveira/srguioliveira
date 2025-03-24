@@ -1,7 +1,7 @@
 <img align="right" width="40%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDE3YnppdnV6cmlxbDFwZGU0MmlubGFrYmoydDZrcm50bTZwMzA0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" />
 
 💼 Engenheiro FrontEnd | FrontEnd Engineer
-## ✨ Sobre Mim / ✨
+## ✨ Sobre Mim ✨
 👋 Olá! Meu nome é **Gui Oliveira**, sou um **Desenvolvedor Front-End** natural de São Paulo, Brasil. Minha paixão pela tecnologia me inspira a criar experiências digitais impactantes, funcionais e acessíveis para todos. 🚀
 
 💻 **Habilidades**: Trabalho com as seguintes tecnologias e frameworks:
