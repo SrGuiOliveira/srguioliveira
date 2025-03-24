@@ -14,7 +14,8 @@
 📫 **Entre em contato**:
 - ✉️ E-mail: [clique aqui](mailto:gui.live012@gmail.com)
 - 🌐 Portfólio Online: [clique aqui](https://gso-portfolio.vercel.app/)
-👋 Hello! My name is **Gui Oliveira**, and I’m a **Front-End Developer** originally from São Paulo, Brazil. My passion for technology inspires me to create impactful, functional, and accessible digital experiences for everyone. 🚀
+
+- 👋 Hello! My name is **Gui Oliveira**, and I’m a **Front-End Developer** originally from São Paulo, Brazil. My passion for technology inspires me to create impactful, functional, and accessible digital experiences for everyone. 🚀
 
 💻 **Skills**: I work with the following technologies and frameworks:
 - **HTML5**, **CSS3**, **JavaScript**, and **TypeScript**
