@@ -15,7 +15,9 @@
 - ✉️ E-mail: [clique aqui](mailto:gui.live012@gmail.com)
 - 🌐 Portfólio Online: [clique aqui](https://gso-portfolio.vercel.app/) 
 
- <img  src = "https://github-readme-stats.vercel.app/api?username=srguioliveira&theme=default&show_icons=true" />
+<div align="center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=srguioliveira&theme=default&show_icons=true" />
+</div>
 
  <hr>
 <h2 align="center">✨ Languages & Frameworks ✨</h2>
